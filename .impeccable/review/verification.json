@@ -1,0 +1,321 @@
+{
+  "pricesPreserved": 19,
+  "navigationPreserved": true,
+  "footerPreserved": true,
+  "viewports": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "heroLines": 2,
+      "ctaBottom": 553.5,
+      "images": [
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pedicure-care.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/beauty-ritual.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "1.jpg",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "heroLines": 2,
+      "ctaBottom": 334.09375,
+      "images": [
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pedicure-care.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/beauty-ritual.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "1.jpg",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "heroLines": 2,
+      "ctaBottom": 359.28125,
+      "images": [
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pedicure-care.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/beauty-ritual.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "1.jpg",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "heroLines": 2,
+      "ctaBottom": 449.09375,
+      "images": [
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pedicure-care.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/beauty-ritual.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "1.jpg",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "heroLines": 2,
+      "ctaBottom": 481.9375,
+      "images": [
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/hero-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/pedicure-care.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/beauty-ritual.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/french-manicure.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "loaded": true
+        },
+        {
+          "src": "1.jpg",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "interactions": "mobile menu, Escape, anchor navigation, all price disclosures, image dialog/focus return, video playback: passed",
+  "socialIcons": "three local Tabler brand SVGs in social section and footer",
+  "imagery": "six new AI images plus existing hero; service images and four-image inspiration collection",
+  "reducedMotion": true,
+  "noJavaScriptFallback": true,
+  "contrast": {
+    "whiteOnGold": 5.45,
+    "mutedOnCream": 5.36,
+    "mutedOnIvory": 6.08,
+    "goldOnCream": 4.64
+  },
+  "delivery": "Seven AI image assets encoded as WebP; six new assets approximately 144-227 KB each.",
+  "gallerySizing": "Portrait inspiration thumbnails stay proportional across all five viewports."
+}

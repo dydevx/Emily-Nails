@@ -1,0 +1,68 @@
+{
+  "hero-manicure.png": {
+    "type": "generated campaign illustration",
+    "prompt": "Create a photorealistic editorial beauty photograph for an elegant gentle pink nail salon website. Portrait 4:5 composition. A close-up of two naturally graceful adult female hands with immaculate soft blush pink and milky nude almond-shaped manicure, one hand gently resting on the other, on pale dusty pink silk fabric with subtle natural folds. Beautiful real skin texture, soft directional daylight from upper left, refined professional beauty campaign photography, restrained pink palette, clear focus on polished nails, ample pale pink negative space in upper third. No face, no text, no letters, no logo, no watermark, no jewelry, no clutter, no flowers, no tools, no borders. Anatomically accurate five fingers per hand, understated graceful pose. This is illustrative campaign imagery, not documentary proof of a specific salon's work.",
+    "tool": "image_gen.imagegen",
+    "use": "decorative hero only, not actual salon work"
+  },
+  "../logo.jpg": "original user-supplied salon logo; preserved",
+  "../1.jpg": "original user-supplied pedicure photo",
+  "../menu.jpg": "original user-supplied printed price list",
+  "../2.mp4": "original user-supplied salon pedicure video",
+  "display-latin.woff2": "Google Fonts: Cormorant Garamond, variable 400..700, Latin subset, SIL OFL",
+  "body-latin.woff2": "Google Fonts: DM Sans, variable 400..700, Latin subset, SIL OFL",
+  "french-manicure.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic premium beauty editorial photograph for a nail salon website. Warm ivory, muted blush pink and champagne-gold palette inspired by a cream-and-gold floral nail salon logo. Soft directional daylight, refined natural skin and material texture, elegant minimalist styling, realistic anatomy. Portrait 4:5 image, tight editorial framing with the manicure or treatment clearly in focus. No text, watermark, logo, letters, frames, collage or illustration. This is AI-generated beauty inspiration, not documentary work from a specific salon. Close-up of ONE adult female hand with five anatomically accurate fingers, long almond-shaped nails, immaculate classic French manicure with slim ivory-white tips and translucent nude-pink base. Fingers relaxed diagonally on warm ivory satin, a single thin gold ring. Distinctive clean French tips, quiet luxurious mood.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-bffd6de6-3ef2-4985-a765-169565eef19b.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "babyboomer-nails.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic premium beauty editorial photograph for a nail salon website. Warm ivory, muted blush pink and champagne-gold palette inspired by a cream-and-gold floral nail salon logo. Soft directional daylight, refined natural skin and material texture, elegant minimalist styling, realistic anatomy. Portrait 4:5 image, tight editorial framing with the manicure or treatment clearly in focus. No text, watermark, logo, letters, frames, collage or illustration. This is AI-generated beauty inspiration, not documentary work from a specific salon. Close-up of ONE adult female hand with five anatomically accurate fingers and medium-length almond nails. Soft Babyboomer ombre manicure fades seamlessly from sheer blush-pink cuticles to milky white nail tips. Hand resting gently on pale peach silk, no jewelry, diffuse highlights and graceful neutral posing. Nail gradient must be visibly smooth.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-ea679daa-34f6-4976-82ee-d8b51a5f6c11.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "gold-nail-art.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic premium beauty editorial photograph for a nail salon website. Warm ivory, muted blush pink and champagne-gold palette inspired by a cream-and-gold floral nail salon logo. Soft directional daylight, refined natural skin and material texture, elegant minimalist styling, realistic anatomy. Portrait 4:5 image, tight editorial framing with the manicure or treatment clearly in focus. No text, watermark, logo, letters, frames, collage or illustration. This is AI-generated beauty inspiration, not documentary work from a specific salon. Close-up of ONE adult female hand with five anatomically accurate fingers, medium almond nails. Delicate nail art on a milky blush base: sparse fine metallic gold linework and small irregular gold-leaf accents on two accent nails; remaining nails plain sheer pink. Warm ivory sculptural ceramic surface, no jewelry. The gold detailing is restrained and precise.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-78b2884a-2cbd-4969-b46d-a8617aa01d5d.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "shellac-rose.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic premium beauty editorial photograph for a nail salon website. Warm ivory, muted blush pink and champagne-gold palette inspired by a cream-and-gold floral nail salon logo. Soft directional daylight, refined natural skin and material texture, elegant minimalist styling, realistic anatomy. Portrait 4:5 image, tight editorial framing with the manicure or treatment clearly in focus. No text, watermark, logo, letters, frames, collage or illustration. This is AI-generated beauty inspiration, not documentary work from a specific salon. Macro beauty photograph of ONE adult female hand with five anatomically accurate fingers. Short neatly rounded nails coated in uniform glossy dusty rose shellac, rich but soft muted pink color. Hand relaxed on cream linen with one fine champagne-gold bracelet barely visible at wrist. Gorgeous glossy reflected daylight, fresh realistic finish.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-a7579ff8-550a-408e-90fb-cbad9cc00155.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "pedicure-care.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic premium beauty editorial photograph for a nail salon website. Warm ivory, muted blush pink and champagne-gold palette inspired by a cream-and-gold floral nail salon logo. Soft directional daylight, refined natural skin and material texture, elegant minimalist styling, realistic anatomy. Portrait 4:5 image, tight editorial framing with the manicure or treatment clearly in focus. No text, watermark, logo, letters, frames, collage or illustration. This is AI-generated beauty inspiration, not documentary work from a specific salon. Elegant close-up of two adult female feet, anatomically accurate five toes per foot, neatly polished soft blush toenails, resting naturally on a clean folded ivory spa towel. Gentle warm cream surroundings and a small out-of-focus champagne metal basin edge in background, no hands, no bath foam. Refinement and relaxation, nails and towel clearly in focus.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-51f3684e-be89-4fdc-a665-c69c390f3056.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "beauty-ritual.webp": {
+    "type": "AI beauty inspiration",
+    "prompt": "Photorealistic luxurious beauty editorial still-life for a nail salon website, landscape 5:4 composition. A tidy unbranded ivory ceramic tray holds two small clear nail-polish bottles with soft blush and milky nude polish, a polished champagne-gold cuticle tool and a minimal nail file. A single pale pink flower rests beside the tray on gently folded warm cream silk. Soft directional daylight, natural textures, realistic photography, warm ivory and bronze-gold palette matching a cream-and-gold floral beauty logo. Spacious refined arrangement, no people, no lettering, no logos, no watermarks, no labels, no collage. AI beauty campaign illustration.",
+    "tool": "image_gen.imagegen",
+    "original": "C:\\Users\\Administrator\\.codex\\generated_images\\01a11fb2-4806-7412-b287-e3ecb7016241\\exec-3d4ec91d-639e-4380-8719-6f988c633b5f.png",
+    "use": "illustrative campaign and design inspiration, not actual salon work"
+  },
+  "hero-manicure.webp": {
+    "type": "generated campaign illustration",
+    "prompt": "Create a photorealistic editorial beauty photograph for an elegant gentle pink nail salon website. Portrait 4:5 composition. A close-up of two naturally graceful adult female hands with immaculate soft blush pink and milky nude almond-shaped manicure, one hand gently resting on the other, on pale dusty pink silk fabric with subtle natural folds. Beautiful real skin texture, soft directional daylight from upper left, refined professional beauty campaign photography, restrained pink palette, clear focus on polished nails, ample pale pink negative space in upper third. No face, no text, no letters, no logo, no watermark, no jewelry, no clutter, no flowers, no tools, no borders. Anatomically accurate five fingers per hand, understated graceful pose. This is illustrative campaign imagery, not documentary proof of a specific salon's work.",
+    "tool": "image_gen.imagegen",
+    "use": "decorative hero only, not actual salon work",
+    "encoding": "WebP delivery derivative; original PNG retained"
+  },
+  "icons": {
+    "origin": "Tabler Icons official outline brand-instagram, brand-facebook, brand-tiktok",
+    "license": "MIT, assets/icons/LICENSE.txt",
+    "use": "inline currentColor SVGs with custom gold/cream containers"
+  }
+}

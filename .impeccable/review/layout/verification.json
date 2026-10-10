@@ -1,0 +1,57 @@
+{
+  "pricesPreserved": 19,
+  "navigationAndFooterPreserved": true,
+  "viewports": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "ctaBottom": 533.53125,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "ctaBottom": 319.375,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "ctaBottom": 340.515625,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "ctaBottom": 452.6875,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "ctaBottom": 503.3125,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "ctaBottom": 526.625,
+      "heroLines": 2,
+      "overflow": []
+    },
+    {
+      "width": 700,
+      "scrollWidth": 700,
+      "ctaBottom": 381.28125,
+      "heroLines": 2,
+      "overflow": []
+    }
+  ],
+  "errors": [],
+  "interactions": "six service selections, Enter/Space, mobile navigation/Escape, all disclosures, menu dialog/focus restoration, video, reduced motion, no-JS fallback: passed"
+}
