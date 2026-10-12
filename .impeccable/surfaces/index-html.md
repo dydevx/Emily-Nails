@@ -23,6 +23,8 @@ FORM: User-selected beauty magazine, code-led, corrected to be orderly after dir
 
 FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
 
+GALLERY CROP: French retains the dominant two-row frame with wider 2fr / 1fr / 1fr columns. Babyboomer and Goldakzente have square close-ups; Shellac uses a taller 3:2 frame that preserves all nail tips. Each photograph has its own focal point. Mobile keeps two columns and uses four square photographs. See `review/gallery-crop/finish-review.md` and `review/gallery-crop/verification.json`.
+
 ## Refinement
 
-Blush cover, 360px desktop media row, 104px section spacing, cream selected-service rows, category-header price menus and adjacent address/hours columns on wide screens. See `.impeccable/review/upgrade-finish.md` for the current finish review and `review/upgrade/verification.json` for interaction checks.
+Blush cover with a responsive 3:2 desktop photograph cropped at 50% 82%, and a square mobile photograph cropped at 50% 100%. Both sets of nail tips remain visible. Retain 104px section spacing, cream selected-service rows, category-header price menus and adjacent address/hours columns on wide screens. See `.impeccable/review/hero-crop/finish-review.md` for the crop refinement and `review/hero-crop/verification.json` for responsive checks. Earlier interaction checks remain in `review/upgrade/verification.json`.

@@ -1,0 +1,299 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 576,
+          "height": 762,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 288,
+          "height": 288,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 288,
+          "height": 288,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 600,
+          "height": 400,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 80%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 135,
+          "height": 135,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 135,
+          "height": 135,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 135,
+          "height": 135,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 135,
+          "height": 135,
+          "position": "50% 80%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 332,
+          "height": 470,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 166,
+          "height": 166,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 352,
+          "height": 235,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 456,
+          "height": 622,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 228,
+          "height": 228,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 228,
+          "height": 228,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 480,
+          "height": 320,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 576,
+          "height": 762,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 288,
+          "height": 288,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 288,
+          "height": 288,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 600,
+          "height": 400,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "width": 700,
+      "scrollWidth": 700,
+      "images": [
+        {
+          "src": "assets/french-manicure.webp",
+          "width": 321,
+          "height": 321,
+          "position": "50% 65%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/babyboomer-nails.webp",
+          "width": 321,
+          "height": 321,
+          "position": "50% 60%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/gold-nail-art.webp",
+          "width": 321,
+          "height": 321,
+          "position": "50% 55%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        },
+        {
+          "src": "assets/shellac-rose.webp",
+          "width": 321,
+          "height": 321,
+          "position": "50% 80%",
+          "naturalWidth": 1122,
+          "naturalHeight": 1402,
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "consoleErrors": []
+}
