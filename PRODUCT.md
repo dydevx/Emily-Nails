@@ -16,7 +16,7 @@ Inferred from the existing German copy: local salon customers browsing on deskto
 
 ## Capabilities and Constraints
 
-Static HTML, CSS and JavaScript; preserve section anchors and primary navigation labels. Preserve every published price, business address, phone number, opening time, social profile and copyright text. Booking uses the existing phone/SMS links; there is no online booking backend.
+Static HTML, CSS and JavaScript; preserve section anchors and primary navigation labels. Preserve every published price, business address, phone number, opening time, social profile and copyright text. Online booking links to the salon's Setmore page, while phone and SMS remain available as contact options.
 
 ## Brand Commitments
 

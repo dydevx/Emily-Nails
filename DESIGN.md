@@ -222,13 +222,13 @@ Use the official local Tabler outline brand SVGs for Instagram, Facebook and Tik
 - **Do** retain the elegant, gentle logo-derived palette and the original Emily Nails logo.
 - **Do** use serif hierarchy, readable sans copy and tabular practical information.
 - **Do** preserve shared alignment, responsive stacking, thin dividers and consistent space around grouped content.
-- **Do** retain every published German business fact and keep booking actions connected to the existing phone and SMS links.
+- **Do** retain every published German business fact and connect primary booking actions to the salon's Setmore page while preserving phone and SMS contact options.
 - **Do** preserve native disclosure, dialog fallbacks, keyboard focus and reduced-motion behavior.
 
 ### Don't:
 
 - **Don't** present decorative campaign imagery as completed salon work.
-- **Don't** invent reviews, ratings, services, prices or an online booking workflow.
+- **Don't** invent reviews, ratings, services, prices or any booking workflow beyond the salon's existing Setmore page.
 - **Don't** add a dark theme or replace the approved ivory, gold and blush direction with another identity.
 - **Don't** put ordinary services and prices into heavily rounded, shadowed cards.
 - **Don't** autoplay video or make content visibility depend on animation or JavaScript.
